@@ -93,4 +93,4 @@ python student_score_analyzer.py
 将上述内容复制到一个名为 README.md 的文件中。
 替换 https://github.com/你的用户名/student-score-analyzer.git 为你的实际 GitHub 仓库链接。
 如有需要，可根据项目实际情况调整内容（例如添加截图、更新功能描述等）。
-这样的 README 文件会让你的项目在 GitHub 上更加专业，方便其他开发者理解和使用。
+
